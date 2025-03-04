@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3658f41.css",
+    "main.js": "/static/js/main.a2023904.js",
+    "static/media/blog.jpg": "/static/media/blog.46cfe1ed0fde4ebd0d4d.jpg",
+    "static/media/b4.jpg": "/static/media/b4.43bf7688d454baee383a.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/bnr.jpg": "/static/media/bnr.ea1670bcd4134e14c93e.jpg",
+    "static/media/ecommerce-selling-online-online-sales-e-commerce.jpg": "/static/media/ecommerce-selling-online-online-sales-e-commerce.4551d16128545dcdb4f6.jpg",
+    "index.html": "/index.html",
+    "main.f3658f41.css.map": "/static/css/main.f3658f41.css.map",
+    "main.a2023904.js.map": "/static/js/main.a2023904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3658f41.css",
+    "static/js/main.a2023904.js"
+  ]
+}

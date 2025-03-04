@@ -7,7 +7,7 @@ const helmet = require("helmet");
 const mongoSanitize = require("express-mongo-sanitize");
 const Xss = require("xss-clean");
 const hpp = require("hpp");
-const path = require("path")
+const path = require("path");
 
 const app = express();
 const itemRoute = require("./Routes/itemRoute");
@@ -35,8 +35,8 @@ app.use(express.json());
 // app.set("trust proxy", 1);
 app.use(
   cors({
-     origin: "http://localhost:3000",
-    //origin: "https://davak-ecomerce.netlify.app",
+    //  origin: "http://localhost:3000",
+    origin: "https://farmghana-ecommerce.onrender.com",
     credentials: true,
     // allowedHeaders:[
     //   'Access-Control-Allow-Origin',
